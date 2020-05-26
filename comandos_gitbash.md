@@ -16,6 +16,7 @@
    git branch utilidad
    git branch
    git status
+   .gitignore
    git add .
    git status
    git commit -m"final"
